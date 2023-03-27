@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="/tmp/ink_ext_XXXXXX.svg1GKC21"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.25"
+     inkscape:cx="30.0"
+     inkscape:cy="30.0"
+     inkscape:window-width="1453"
+     inkscape:window-height="1211"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid260" />
+  </sodipodi:namedview>
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff6600;stroke:none;stroke-width:1.00157;stroke-dasharray:none"
+       id="rect1917"
+       width="8"
+       height="12"
+       x="4"
+       y="2"
+       ry="1" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.00157;stroke-dasharray:none"
+       id="rect3587"
+       width="6"
+       height="10"
+       x="5"
+       y="3"
+       ry="1" />
+    <rect
+       style="fill:#b3b3b3;stroke:none;stroke-width:1.00157;stroke-dasharray:none"
+       id="rect3377"
+       width="4"
+       height="1"
+       x="6"
+       y="3"
+       ry="0.5" />
+    <rect
+       style="fill:#b3b3b3;stroke:none;stroke-width:1.00157;stroke-dasharray:none"
+       id="rect5097"
+       width="2"
+       height="3"
+       x="7"
+       y="1"
+       ry="1" />
+    <path
+       style="fill:none;stroke:#37abc8;stroke-width:1.00157;stroke-linecap:round;stroke-dasharray:none"
+       d="m 6,9 2,2 2,-5"
+       id="path5153" />
+  </g>
+</svg>
